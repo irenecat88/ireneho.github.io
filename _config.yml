@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot_10112022.jpg"
+  avatar           : "profile.png"
   name             : "Hui-Ru (Irene) Ho"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
