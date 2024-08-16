@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hui-Ru (Irene) Ho"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hui-Ru (Irene) Ho"
 description              : &description "personal description"
 url                      : https://irene-huiru-ho.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "https://irene-huiru-ho.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot10112022.jpg"
+  avatar           : "./files/Headshot10112022.jpg"
   name             : "Hui-Ru (Irene) Ho"
   pronouns         : "she/her"  
   bio              : "I am a HCI researcher studying robotics, education, and families."
