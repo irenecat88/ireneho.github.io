@@ -21,7 +21,7 @@ repository               : "https://irene-huiru-ho.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/Headshot10112022.jpg"
+  avatar           : "profile.png"
   name             : "Hui-Ru (Irene) Ho"
   pronouns         : "she/her"  
   bio              : "I am a HCI researcher studying robotics, education, and families."
